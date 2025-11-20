@@ -306,6 +306,7 @@
         .project-body li {
             margin-bottom: 0.8rem;
             line-height: 1.6;
+            text-align: justify;
         }
 
         /* Contact Section */
@@ -398,3 +399,4 @@
                 display: block;
             }
         }
+
