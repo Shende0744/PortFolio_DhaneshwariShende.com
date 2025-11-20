@@ -307,10 +307,7 @@
             margin-bottom: 0.8rem;
             line-height: 1.6;
         }
-        li {
-            text-align: justify;
-        }
-                
+                        
         /* Contact Section */
         .contact-info {
             background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
@@ -401,5 +398,6 @@
                 display: block;
             }
         }
+
 
 
